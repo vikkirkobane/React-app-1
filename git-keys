@@ -1,0 +1,68 @@
+Generating public/private rsa key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key.pub
+The key fingerprint is:
+SHA256:kbLudpodmiNqqg7Q48tVgJ4KLRwuXlQnkvNFpDDY1TA u0_a247@localhost
+The key's randomart image is:
++---[RSA 3072]----+
+|  o+oE=+         |
+| . == =o .       |
+| ...+.o o        |
+|o+o. o o .       |
+|=o*.  o S        |
+|=+.. o           |
+|o.. . . .        |
+|...o..o=..       |
+|=++. o*+.        |
++----[SHA256]-----+
+Generating public/private dsa key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key.pub
+The key fingerprint is:
+SHA256:k6AMBTVU60yG0Vfh5QCK41DVHXqO2OxuVBMtRY0XfYk u0_a247@localhost
+The key's randomart image is:
++---[DSA 1024]----+
+|  .+B+o..+=*+ooo.|
+|   o =.ooo++oEo.o|
+|  o + *.. oo..  .|
+|   = B = =o      |
+|    + + S...     |
+|       ...       |
+|       ..        |
+|       ..        |
+|       ..        |
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key.pub
+The key fingerprint is:
+SHA256:giGLppMAkytm/+OZ8HbOd+6PgUfp7tT4sYx1RKAQHuA u0_a247@localhost
+The key's randomart image is:
++---[ECDSA 256]---+
+|       ..+.  .   |
+| .    . . o . .  |
+|+ . .  E . .   . |
+|.+ o o      . .  |
+|=+. . . S  o   . |
+|B..    .  + o .  |
+|+  o     . * + . |
+| .  +o+. .+.B +  |
+|    o*+o. =B.=   |
++----[SHA256]-----+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key
+Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key.pub
+The key fingerprint is:
+SHA256:IM1eRU/eIyMklFng3DbpnwdkfgOCh/XDovnVcixaqZo u0_a247@localhost
+The key's randomart image is:
++--[ED25519 256]--+
+|       .+** .    |
+|     o ooO B .   |
+|    . + * X % o  |
+|     o o * O O . |
+|      . S . O *  |
+|         . * B . |
+|          + o .  |
+|         o   .   |
+|        E        |
++----[SHA256]-----+
